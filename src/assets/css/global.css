@@ -12,3 +12,7 @@
 .el-pagination{
   margin-top: 15px;
 }
+html ,body ,#app{
+  min-width: 1366px;
+  overflow: auto;
+}
